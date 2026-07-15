@@ -227,11 +227,7 @@ Contributions are welcome! If you want to improve this project:
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
-
----
 
 ## 👩‍💻 Author
 
